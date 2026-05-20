@@ -1,0 +1,23 @@
+{
+  "decision_tree": {
+    "accuracy": 0.9196,
+    "precision": 0.9285,
+    "recall": 0.9196
+  },
+  "kmeans": {
+    "silhouette_score": 0.2829,
+    "n_clusters": 5,
+    "cluster_sizes": {
+      "0": 653,
+      "1": 200,
+      "2": 636,
+      "3": 206,
+      "4": 605
+    }
+  },
+  "linear_regression": {
+    "RMSE": 2.7962,
+    "MAE": 1.3789,
+    "R2": 0.949
+  }
+}
